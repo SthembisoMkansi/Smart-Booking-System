@@ -42,7 +42,7 @@ A fully functional, client-side appointment booking web application that runs en
 ## 🚀 How to Use
 
 ### Online (GitHub Pages)
-1. Visit the live link above
+1. Visit the live link https://sthembisomkansi.github.io/Smart-Booking-System/
 2. Pick a date (today or future)
 3. Click any green ✅ time slot
 4. Enter your name and email
@@ -51,6 +51,6 @@ A fully functional, client-side appointment booking web application that runs en
 
 ### Locally
 
-# Open index.html in your browser
+# Open https://sthembisomkansi.github.io/Smart-Booking-System/ in your browser
 cd smart-appointment-booking
-open index.html   # or double-click the file
+open https://sthembisomkansi.github.io/Smart-Booking-System/   # or double-click the index.html file
